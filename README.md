@@ -1,2 +1,1 @@
-# canvas-sign
-移动端签字
+预览地址：https://imkeys.github.io/canvas-sign/
